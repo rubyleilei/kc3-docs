@@ -4,7 +4,7 @@
 
 **Note**: Each article contains its own mini-FAQ for the specific topic
 
-For updates, see [Changelogs](changelogs/README "wikilink").
+For updates, see [Changelogs](https://github.com/KC3Kai/kc3-docs/tree/master/en/changelogs/README.md "wikilink").
 
 ### Setup
 
