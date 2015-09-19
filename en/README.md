@@ -8,60 +8,63 @@ For updates, see [Changelogs](https://github.com/KC3Kai/kc3-docs/tree/master/en/
 
 ### Setup
 
--   [Installation](Installation "wikilink")
--   [Updating](Updating "wikilink") - **Important:** please read.
--   [Removal](Removal "wikilink")
--   [Troubleshooting](Troubleshooting "wikilink") - in case you encounter errors or is stuck somewhere
--   [Development Build](Setup_development_build "wikilink")
+-   [Installation](https://github.com/KC3Kai/kc3-docs/tree/master/en/Installation.md "wikilink")
+-   [Updating](https://github.com/KC3Kai/kc3-docs/tree/master/en/Updating.md "wikilink") - **Important:** please read.
+-   [Removal](https://github.com/KC3Kai/kc3-docs/tree/master/en/Removal.md "wikilink")
+-   [Troubleshooting](https://github.com/KC3Kai/kc3-docs/tree/master/en/Troubleshooting.md "wikilink") - in case you encounter errors or is stuck somewhere
+-   [Development Build](https://github.com/KC3Kai/kc3-docs/tree/master/en/Setup_development_build.md "wikilink")
 
 ### Gameplay Options
 
--   [Play via/Refresh API Link](Gameplay_-_API_Link "wikilink")
--   [Play on DMM website](Gameplay_-_Play_on_DMM_website "wikilink")
+-   [Play via/Refresh API Link](https://github.com/KC3Kai/kc3-docs/tree/master/en/Gameplay_-_API_Link.md "wikilink")
+-   [Play on DMM website](https://github.com/KC3Kai/kc3-docs/tree/master/en/Gameplay_-_Play_on_DMM_website.md "wikilink")
 
 ### Features
 
--   [Game Screen](Game_Screen "wikilink")
-    -   [On-screen Translations](On-screen_Translations "wikilink")
-    -   [Screenshot Feature](Screenshot_Feature "wikilink")
--   [Panel](Panel "wikilink")
-    -   [Activity Boxes](Panel:_Activity_Boxes "wikilink")
--   [Strategy Room](Strategy_Room "wikilink")
+-   [Game Screen](https://github.com/KC3Kai/kc3-docs/tree/master/en/Game_Screen.md "wikilink")
+    -   [On-screen Translations](https://github.com/KC3Kai/kc3-docs/tree/master/en/On-screen_Translations.md "wikilink")
+    -	[Subtitles](https://github.com/KC3Kai/kc3-docs/tree/master/en/Subtitles.md "wikilink")
+    -   [Screenshot Feature](https://github.com/KC3Kai/kc3-docs/tree/master/en/Screenshot_Feature.md "wikilink")
+-   [Panel](https://github.com/KC3Kai/kc3-docs/tree/master/en/Panel.md "wikilink")
+	-	[Battle Tab](https://github.com/KC3Kai/kc3-docs/tree/master/en/Panel_-_-Battle_Tab.md "wikilink")
+    -   [Activity Boxes](https://github.com/KC3Kai/kc3-docs/tree/master/en/Panel_-_Activity_Boxes.md "wikilink")
+    -	[Customization](https://github.com/KC3Kai/kc3-docs/tree/master/en/Panel_-_Customization.md "wikilink")
+-   [Strategy Room](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room.md "wikilink")
     -   Player
-        -   [Profile](Strategy_Room:_Profile "wikilink")
-        -   [Newsfeed](Strategy_Room:_Newsfeed "wikilink")
-        -   [Screenshots](Strategy_Room:_Screenshots "wikilink")
-        -   [Resources](Strategy_Room:_Resources "wikilink")
-        -   [Consumables](Strategy_Room:_Consumables "wikilink")
-        -   [Showcase](Strategy_Room:_Showcase "wikilink")
+        -   [Profile](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Profile.md "wikilink")
+        -   [Newsfeed](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Newsfeed.md "wikilink")
+        -   [Screenshots](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Screenshots.md "wikilink")
+        -   [Resources](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Resources.md "wikilink")
+        -   [Consumables](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Consumables.md "wikilink")
+        -   [Showcase](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Showcase.md "wikilink")
     -   Ships
-        -   [Ship List](Strategy_Room:_Ships "wikilink")
-        -   [Construction](Strategy_Room:_Construction "wikilink")
-        -   [LSC](Strategy_Room:_LSC "wikilink")
+        -   [Ship List](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Ships.md "wikilink")
+        -   [Construction](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Construction.md "wikilink")
+        -   [LSC](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_LSC.md "wikilink")
         -   Placeholder
         -   Placeholder
         -   Placeholder
         -   Placeholder
 
     -   Equipment
-        -   [Equipment List](Strategy_Room:_Equipment "wikilink")
-        -   [Crafting](Strategy_Room:_Crafting "wikilink")
-        -   [Aircraft](Strategy_Room:_Aircraft "wikilink")
+        -   [Equipment List](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Equipment.md "wikilink")
+        -   [Crafting](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Crafting.md "wikilink")
+        -   [Aircraft](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Aircraft.md "wikilink")
 		-   Placeholder
 
     -   Fleet
-        -   [Current](Strategy_Room:_Fleets "wikilink")
-        -   [Export](Strategy_Room:_Export "wikilink")
-        -   [Locking](Strategy_Room:_Locking "wikilink")
+        -   [Current](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Fleets.md "wikilink")
+        -   [Export](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Export.md "wikilink")
+        -   [Locking](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Locking.md "wikilink")
 
     -   Quests
 		- Placeholder
-        -   [Flowchart](Strategy_Room:_Quests "wikilink")
+        -   [Flowchart](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Quests.md "wikilink")
 		- Placeholder
 
     -   Sortie
-        -   [Maps](Strategy_Room:_Regular_Maps "wikilink")
-        -   [Events](Strategy_Room:_Events "wikilink")
+        -   [Maps](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Regular_Maps.md "wikilink")
+        -   [Events](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Events.md "wikilink")
 
     -   PvP
 		- Placeholder
@@ -70,7 +73,7 @@ For updates, see [Changelogs](https://github.com/KC3Kai/kc3-docs/tree/master/en/
     -   Expeditions
 		- Placeholder
 		- Placeholder
-        -   [Scorer](Strategy_Room:_Scorer "wikilink")
+        -   [Scorer](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Scorer.md "wikilink")
 
     -   Goals
         -   Placeholder
@@ -84,25 +87,24 @@ For updates, see [Changelogs](https://github.com/KC3Kai/kc3-docs/tree/master/en/
         -   Placeholder
         -   Placeholder
 
-### [Settings](Settings "wikilink")
--   [Global](Settings:_Global "wikilink")
--   [Game Information](Settings:_Game_Information "wikilink")
--   [Screenshot](Settings:_Screenshot "wikilink")
--   [Alerts](Settings:_Alerts "wikilink")
--   [API Game Screen](Settings:_API_Game_Screen "wikilink")
--   [DMM Gameplay](Settings:_DMM Gameplay "wikilink")
--   [Panel](Settings:_Panel "wikilink")
--   [Panel: Legacy Theme](Settings:_Panel:_Legacy_Theme "wikilink")
--   [Backgrounds](Settings:_Backgrounds "wikilink")
+### [Settings](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings.md "wikilink")
+-   [Global](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Global.md "wikilink")
+-   [Game Information](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Game_Information.md "wikilink")
+-   [Screenshot](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Screenshot.md "wikilink")
+-   [Alerts](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Alerts.md "wikilink")
+-   [API Game Screen](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_API_Game_Screen.md "wikilink")
+-   [DMM Gameplay](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_DMM Gameplay.md "wikilink")
+-   [Panel](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Panel.md "wikilink")
+-   [Panel: Legacy Theme](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Panel:_Legacy_Theme.md "wikilink")
+-   [Backgrounds](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Backgrounds.md "wikilink")
 
 ### Technical
 
--   [Cookies](Cookies "wikilink")
--   [Reading your data](Reading_your_data "wikilink")
--   [Chrome permissions](Chrome_permissions "wikilink")
+-   [Cookies](https://github.com/KC3Kai/kc3-docs/tree/master/en/Cookies.md "wikilink")
+-   [Reading your data](https://github.com/KC3Kai/kc3-docs/tree/master/en/Reading_your_data.md "wikilink")
+-   [Chrome permissions](https://github.com/KC3Kai/kc3-docs/tree/master/en/Chrome_permissions.md "wikilink")
 
 ### Other Topics
 
--   [Localization](Localization "wikilink")
--   [How to help out](How_to_help_out "wikilink")
-
+-   [Localization](https://github.com/KC3Kai/kc3-docs/tree/master/en/Localization.md "wikilink")
+-   [How to help out](https://github.com/KC3Kai/kc3-docs/tree/master/en/How_to_help_out.md "wikilink")
