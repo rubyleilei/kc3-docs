@@ -14,14 +14,14 @@ reached, newer zip releases will be made available for download.
 
 Note that zip releases are not necessarily identical to development builds as they are a "snapshot" of development build once it has reached a certain milestone but may share same ID as development build as opposed to stable (webstore) build.
 
-#### Option: Zip Download
+#### Option: Zip Download (Deprecated, no longer recommended)
 
 1.   [Download](https://github.com/dragonjet/KC3Kai/archive/master.zip) the ZIP file from the [front page of KC3 Kai github](https://github.com/dragonjet/KC3Kai).
 2.   Extract the contents of the ZIP file into your preferred directory/folder.
 3.  Go into your Chrome browser &gt; menu bar located on the right-hand part of the toolbar with an icon representing 3 horizontal layers &gt; More tools &gt; Extensions.
 4.   Check the box labelled "Developer mode" located on the right hand upper part of the window.
 5.   Click on "Load unpacked extension".
-6.   When prompted to "Select the extension directory/folder", navigate to where you extracted the contents of the zip file but under the directory/folder labelled src. 
+6.   When prompted to "Select the extension directory/folder", navigate to where you extracted the contents of the zip file but under the directory/folder labelled src.
 For instance, if you extracted into \\Downloads\\KC3Kai\\ then you should point the extension directory/folder as \\Downloads\\KC3Kai\\src
 
 #### Option: Git Cloning
@@ -30,6 +30,7 @@ If you have knowledge with git, you can clone the repository onto your
 computer:
 
 -   Get Clone URLs from [KC3改 GitHub](https://github.com/dragonjet/KC3Kai)
+-   Also do submodule update as mentioned [here](https://github.com/KC3Kai/KC3Kai/issues/784#issuecomment-139556574).
 
 #### Option: TortoiseGit
 
@@ -42,6 +43,7 @@ If you do not have knowledge with git, but still want the bleeding edge of KC3�
 5.   Go inside your KC3改 folder, right-click, Select **Git Clone**
 6.   Paste the Clone URL into the **Git Clone** prompt
 7.   Wait for cloning process to complete
+8.   You will need to also do submodules update, see [here](https://github.com/KC3Kai/KC3Kai/issues/784#issuecomment-139554087) for instructions.
 
 Step 2: Install
 ---------------
@@ -55,6 +57,22 @@ Step 2: Install
 
 FAQ
 ---
+#### When I used the git/development build of KC3 Kai I see no words besides the icon within the KC3 Kai menu, clicking on them does not do anything!
+
+When using development build of KC3 Kai (since circa version 19), translations for various KC3 Kai related items have been moved to another project and therefore breaks the ZIP builds downloaded from GitHub. This does **not** include [tagged releases](https://github.com/dragonjet/KC3Kai/releases) which are technically ["grunted"](https://www.npmjs.com/package/grunt) builds and would thereby include translations.
+
+**For users who do not wish to use a proper git software**
+Please use [tagged releases](https://github.com/dragonjet/KC3Kai/releases) but do note that any tagged releases are generally older than the bleeding edge releases found when using the actual git software.
+
+**For developers**
+You will need to:
+````
+git submodule update --init -- "src/data/lang"
+````
+For developers not familiar with CLI git commands please refer to your git software documentation.
+
+As mentioned [here](https://github.com/KC3Kai/KC3Kai/issues/866#issuecomment-140267548) as well as [here](https://github.com/KC3Kai/KC3Kai/issues/784#issuecomment-139556574).
+
 
 #### What are the differences between WebStore, Zip, and GitHub versions?
 
