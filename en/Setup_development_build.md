@@ -43,7 +43,8 @@ If you do not have knowledge with git, but still want the bleeding edge of KC3æ”
 5.   Go inside your KC3æ”¹ folder, right-click, Select **Git Clone**
 6.   Paste the Clone URL into the **Git Clone** prompt
 7.   Wait for cloning process to complete
-8.   You will need to also do submodules update, see [here](https://github.com/KC3Kai/KC3Kai/issues/784#issuecomment-139554087) for instructions.
+8.   Make sure that you have a registered SSH key. Open GitBash in your KC3Kai directory/folder and follow the steps outlined [here](https://help.github.com/articles/generating-ssh-keys/)
+9.   You will need to also do submodules update, see [here](https://github.com/KC3Kai/KC3Kai/issues/784#issuecomment-139554087) for instructions.
 
 Step 2: Install
 ---------------
