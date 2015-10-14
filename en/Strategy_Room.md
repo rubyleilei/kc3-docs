@@ -18,7 +18,7 @@ It has multiple pages for different purposes:
     -   [Ship List](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Ships.md "wikilink")
     -   [Construction](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Construction.md "wikilink")
     -   [LSC](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_LSC.md "wikilink")
-    -   Placeholder
+    -   [Docking](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Docking.md "wikilink")
     -   Placeholder
     -   Placeholder
     -   Placeholder
@@ -28,6 +28,7 @@ It has multiple pages for different purposes:
     -   [Crafting](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Crafting.md "wikilink")
     -   [Aircraft](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Aircraft.md "wikilink")
 	-   Placeholder
+	-   [Akashi](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Akashi.md "wikilink")
 
 -   Fleet
     -   [Current](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Fleets.md "wikilink")
