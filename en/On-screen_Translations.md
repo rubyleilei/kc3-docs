@@ -3,7 +3,7 @@ KC3改 offers **on-screen quest translations** for players using [Play via API l
 How it works
 ------------
 
-<https://github.com/dragonjet/KC3Kai/kc3-docs/blob/master/wiki/images/KC3KaiTranslations.jpg>
+<https://github.com/KC3Kai/kc3-docs/blob/master/_img/KC3KaiTranslations.jpg>
 
 #### Process
 
