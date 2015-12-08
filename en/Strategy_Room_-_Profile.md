@@ -16,6 +16,12 @@ Most of these information is pretty straightforward. Again these can be found on
 <!---   **PvP: Attacked:** The amount of times you have been attacked by another player on your server.
 -   **PvP: Attacked won:** The amount of times you have been attacked by another player on your server but have won.-->
 
+#### Rank Points
+
+This area shows you the amount of ranking points that you have gained. The aim of this is for the viewer to start counting your rank points when you press a button to start counting, to stop counting and to reset the counters.
+
+For more information see [here](https://github.com/KC3Kai/KC3Kai/issues/122).
+
 <!--#### Achievements
 
 *(the idea here is just to have custom badge icons for players to screenshot and show-off)*:
