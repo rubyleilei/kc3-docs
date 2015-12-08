@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Equipment / [Akashi](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Akashi.md)
+
 #Overview
 
 **This page is still under construction, while the upgrade list is complete, there are still enhancements queued, like the upgraded item to the right, and will show the stat difference between the original item, and the list of your equipment on how many you have of each one.**

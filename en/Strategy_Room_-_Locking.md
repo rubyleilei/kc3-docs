@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Fleet / [Locking](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Locking.md)
+
 #Overview
 
 The locking tab is a fleet planner for events when they lock certain ships/fleets into certain maps you can plan it advance what ship goes where as well as offer a screenshot of your planning to others so that you maybe able to assist each other.

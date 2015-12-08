@@ -1,51 +1,26 @@
-The Ships tab offers a view of the ships you have in your game profile. In addition to that it offers the flexibility to either sort and/or filter the information you need.
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Library / [Ships](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Ships.md)
 
-Options available:
+##Overview
+Since [version 23.x](https://www.facebook.com/kc3kai/posts/1654047638216062) has been released the following section provides insights on any new (kancolle game) updates from the last update.
 
--   **Select:** **All**, **None** : This allows selection of hull classifications whether to select all hull classifications or none. Individual options for each hull classification is offered below.
--   **Equip Stats:** **Yes**, **No** : This chooses the ability to include the statistics of the ships equipped with certain equipments to boost their stats.
-    -   Choosing **yes** will include the equipments currently equipped on the ship itself to have total stats count of the ship itself as well as the entire ship collection stats.
-    -   Choosing **no** will not include the equipment stats that are currently equipped on the ship itself.
--   **Remodel:** **All** **Max** **Non-Max**: This allows you to filter your ship list according to whether or not if they were either:
-    -   non-remodelled
-    -   partially remodelled
-    -   fully remodelled or
-    -   no filtering (default option)
--   **Modernization:** **All** **Max** **Non-Max**: This allows you to filter your ship list according to whether or not if they were either:
-    -   not modernized
-    -   fully modernized or
-    -   no filtering (default option)
--   **Marriage:** **Include** **Only** **Exclude**: This allows you to filter your ship list according to whether or not if your ships are married as part of the list. Options are:
-    -   Include them (default behavior)
-    -   Only shows married ships on the list
-    -   Exclude any married ships from the list
--   **DDE**, **DD**, **CL**, etc : These are hull classifications. For more information refer to [here](http://en.wikipedia.org/w/index.php?title=List_of_hull_classifications)
+On the left pane shows the list of available ships that are within the game. This not only includes the newly added ship(s) for instance but the whole collection of ships both user playable as well as abyssal ships.
 
+**Tip: If you have difficulty locating a ship within the list, you can simply hit <kbd>Ctrl</kbd>+<kbd>F</kbd> or <kbd>Command</kbd>+<kbd>F</kbd> (for Mac users) and type in the name of the ship.**
 
-#### Sortable area via clicking (placing your cursor on it will highlight the fields in yellow) from left to right
-
--   **ID** : The identification number for the ship that has been added to your game profile since you started the game. This ID number increments whenever you get a new ship but does not decrease in number for when you either: scrap, used it for modernization or sunk the ship.
--   **Name**: The name of the ship.
--   **Type**: Hull classification for the specified ship.
--   **Level**: The current level of the specified ship.
--   **:)**: The current morale of the specified ship. Optimal/above average (49) morale are indicated with yellow background.
--   **HP**: The total health points available on the specified ship.
--   **FP**: The fire power available on the specified ship.
--   **Torpedo**: The torpedo stats on the specified ship.
--   **AA**: The Anti-Air stats on the specified ship.
--   **Armor**: The total armor available on the specified ship.
--   **ASW**: The total Anti Submarine Warfare stats available on the specified ship.
--   **Evasion**: The current evasion stat on the specified ship.
--   **LoS**: The current Line of Sight (LoS) available on the specified ship.
--   **Luck**: The current luck stats on the specified ship.
--   **Night battle attack power**: The attack power for the specified ship at night battle. For more information, [see here.](https://github.com/KC3Kai/KC3Kai/issues/654)
--   **Equipments**: The equipments currently mounted on the ship.
-
-**Notes**:
-
--   For the fields: **HP**, **FP**, **Torpedo**, **AA**, ships with maximum modernized stat in any one of those fields will render the background in a particular color. Otherwise the stats background for the specified ship will not be colorized and instead shows how much more stats does it require before hitting maximum.
--   For the fields: **Armor**, **ASW**, **Evasion**, **LoS**, these stats depends on whether or not did you want to include **Equip Stats** option (see above) or not.
-
-#### Stat totals of currently shown ships:
-
-The fields with green background before the entire ship list is presented details the total accumulated stats. That is where the **Level** column is indicated for each of the respective ships, the green background field near the top is the overall level for all your ships in your collection.
+On the right pane shows the ship selected from the left pane. These are as follows (clockwise starting from left):
+  - The image of the ship.
+  - taik: The HP (Health Points) stats applicable to the ship. Information shown in brackets is the maximum amount of HP stats the specified ship can attain.
+  - houg: The FP (Firepower) stats applicable to the ship. Information shown in brackets is the maximum amount of FP stats the specified ship can attain.
+  - souk: The armor stats applicable to the ship. Information shown in brackets is the maximum amount of armor stats the specified ship can attain.
+  - raig: The torpedo stats applicable to the ship. Information shown in brackets is the maximum amount of torpedo stats the specified ship can attain.
+  - leng: The length in which the applicable ship can fire her projectile at their opponents. Information is shown in either: short, medium or long. This entry only shows ships without equipment applied such as Specialized Carrier Aircraft Maintenance Personnel which usually extends a ship's firing range.
+  - tyku: The AA (Anti Air) stats applicable to the ship. Information shown in brackets is the maximum amount of AA stats the specified ship can attain.
+  - soku: The speed in which the ship can travel at. Information is shown in either: Slow or Fast.
+  - luck: The amount of luck the ship has. Information shown in brackets is the maximum amount of luck the specified ship can attain.
+  - *Currently this feature is not (properly) implemented.* The equipments that comes provided with the ship. If the ship is able to carry planes, the maximum amounts of planes she can carry will be shown to the right of the equipment icon as well as the name in numerical format.
+  - *Currently this feature is possibly partially implemented.* The phrase the voice actress speaks for the various voice lines when pressed (below).
+  - Next level for the specified ship as well as the new name of the ship. Also includes the remodel level as well as the amount of each resource(s) required for remodel.
+  - Scrap value: The resources for the ship if she were to be scrapped.
+  - Modernization: The resources for the ship if she were to be used as a modernization fodder on other ships.
+  - Consumption: The amount of resources the ship consumes at most upon completion of sortie.
+  - Voice lines applicable for the ship. Note for abyssal ships that their voice lines are currently non-functional.

@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Expeditions / [Scorer](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Scorer.md)
+
 #Overview
 
 Expedition Scorer presents you expeditions that are suitable based on a few factors such as:

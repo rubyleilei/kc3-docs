@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Ships / [Docking](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Docking.md)
+
 #Overview
 
 The docking page allows you to view which ships that needs to be repaired. Each of the column is as follows:

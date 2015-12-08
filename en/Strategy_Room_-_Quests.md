@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Quests / [Flowchart](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Quests.md)
+
 The Quests tab presents tracking on the quests you are doing **whilst** using KC3 Kai. For more information about the quest you may want to refer to:
 
 -   [Quests (Kancolle wikia link)](http://kancolle.wikia.com/wiki/Quests)

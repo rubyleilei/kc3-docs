@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Equipment / [Aircraft](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Aircraft.md)
+
 #Overview
 
 Aircraft Proficiency has become a thing since Summer 2015 Event and therefore makes the display of the progress for the aircrafts simpler to the user as well as the plane's stats, where they are equipped, etc.

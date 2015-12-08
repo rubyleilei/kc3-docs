@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / Setup / [Troubleshooting](https://github.com/KC3Kai/kc3-docs/blob/master/en/Setup_-_Troubleshooting.md)
+
 Each page of this wiki already contains Mini-FAQs on common problems per component. Please check related articles if your issue, or question is already addressed.
 
 The following are the most common issues:

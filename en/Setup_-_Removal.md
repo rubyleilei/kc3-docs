@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / Setup / [Removal](https://github.com/KC3Kai/kc3-docs/blob/master/en/Setup_-_Removal.md)
+
 It makes us sad to see you leave, but if you really want to uninstall KC3改 from your browser, simply
 
 1.  Go to your Chrome extensions page `chrome://extensions/`

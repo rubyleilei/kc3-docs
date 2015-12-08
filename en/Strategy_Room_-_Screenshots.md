@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Player / [Screenshots](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Screenshots.md)
+
 # Overview
 Here is where you can get list of screenshots that you have made via pressing the button from KC3 Kai's panel.
 

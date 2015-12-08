@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Player / [Consumables](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Consumables.md)
+
 Consumables page shows a snapshot of your consumables at specified intervals and plots them out on a graph over specified intervals. The following notes for the three graphs are as follows:
 
 -   **Over the past day (per hour)**

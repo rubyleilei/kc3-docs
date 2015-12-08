@@ -31,61 +31,73 @@ For updates, see [Changelogs](https://github.com/KC3Kai/kc3-docs/tree/master/en/
     -	[Customization](https://github.com/KC3Kai/kc3-docs/tree/master/en/Panel_-_Customization.md "wikilink")
 -   [Strategy Room](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room.md "wikilink")
     -   Player
-        -   [Profile](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Profile.md "wikilink")
-        -   [Newsfeed](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Newsfeed.md "wikilink")
+       -   [Profile](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Profile.md "wikilink")
+        -   [Newsfeed *(Placeholder)*](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Newsfeed.md "wikilink")
         -   [Screenshots](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Screenshots.md "wikilink")
         -   [Resources](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Resources.md "wikilink")
         -   [Consumables](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Consumables.md "wikilink")
         -   [Showcase](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Showcase.md "wikilink")
+        -   [Lodger *(Placeholder)*](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Lodger.md "wikilink")
+
     -   Ships
         -   [Ship List](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Ships.md "wikilink")
         -   [Construction](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Construction.md "wikilink")
         -   [LSC](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_LSC.md "wikilink")
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
+        -   [Docking](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Docking.md "wikilink")
+        -   [Leveling](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Leveling.md "wikilink")
+        -   *Drop (Placeholder)*
+        -   *Memorial (Placeholder)*
+        -   *Modernization (Placeholder)*
+        -   *Remodel (Placeholder)*
 
     -   Equipment
         -   [Equipment List](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Equipment.md "wikilink")
         -   [Crafting](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Crafting.md "wikilink")
         -   [Aircraft](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Aircraft.md "wikilink")
-		-   Placeholder
+        -   *Modernization (Placeholder)*
+		-   [Akashi](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Akashi.md "wikilink")
 
     -   Fleet
         -   [Current](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Fleets.md "wikilink")
         -   [Export](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Export.md "wikilink")
         -   [Locking](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Locking.md "wikilink")
+        -   [Presets](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Presets.md "wikilink")
+        -   *Teams (Placeholder)*
 
     -   Quests
-		- Placeholder
+    	-   *List Mode (Placeholder)*
         -   [Flowchart](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Quests.md "wikilink")
-		- Placeholder
+        -   *History (Placeholder)*
 
     -   Sortie
         -   [Maps](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Regular_Maps.md "wikilink")
         -   [Events](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Events.md "wikilink")
 
-    -   PvP
-		- Placeholder
-		- Placeholder
+    -   *PvP*
+		- *Placeholder*
+		- *Placeholder*
 
     -   Expeditions
-		- Placeholder
-		- Placeholder
+		-   [History](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_History.md "wikilink")
         -   [Scorer](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Scorer.md "wikilink")
+        -   *Placeholder*
 
-    -   Goals
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
+	-	Library
+		-	[Updates](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Updates.md "wikilink")
+		-	[Ships](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Ships.md "wikilink")
+		-	[Equipments](https://github.com/KC3Kai/kc3-docs/tree/master/en/Strategy_Room_-_Equipment.md "wikilink")
 
-    -   Game Data
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
-        -   Placeholder
+    -   *Goals*
+        -   *Placeholder*
+        -   *Placeholder*
+        -   *Placeholder*
+        -   *Placeholder*
+
+    -   *Game Data*
+        -   *Placeholder*
+        -   *Placeholder*
+        -   *Placeholder*
+        -   *Placeholder*
 
 ### [Settings](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings.md "wikilink")
 -   [Global](https://github.com/KC3Kai/kc3-docs/tree/master/en/Settings_-_Global.md "wikilink")

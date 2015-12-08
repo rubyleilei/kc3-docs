@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / Setup / [Updating](https://github.com/KC3Kai/kc3-docs/blob/master/en/Setup_-_Updating.md)
+
 Chrome extensions update automatically. So in general, you do not need to worry about updating. However, you should be aware of when they happen so you can adjust your timings.
 
 The common problem with auto-update is that it restarts automatically. You do not want this to happen and your game close when you're nearing a boss kill! Avoid going on sortie during expected update times.

@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Ships / [Construction](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Construction.md)
+
 Here is where you will find a history of your ship constructions.
 
 The information is ordered as follows (from top to bottom, left to right):

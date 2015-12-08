@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / Setup / [Installation](https://github.com/KC3Kai/kc3-docs/blob/master/en/Setup_-_Installation.md)
+
 **Recommended option**
 Just visit KC3改 on Chrome Webstore and click on the "Free" button at the top:
 

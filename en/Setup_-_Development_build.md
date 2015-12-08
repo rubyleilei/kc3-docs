@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / Setup / [Development build](https://github.com/KC3Kai/kc3-docs/blob/master/en/Setup_-_Development_build.md)
+
 Can't wait for the next version? Want to use the latest build as the developers/beta testers? You have the option to do this by following simple instructions below. There are also multiple options depending on how familiar you are with tools. Don't worry though, there's a way for even the basic layman.
 
 The system **requirements** would be the same as the WebStore version of KC3改, [you may review it here](Installation "wikilink").
@@ -18,7 +20,7 @@ Note that zip releases are not necessarily identical to development builds as th
 
 1.   [Download](https://github.com/dragonjet/KC3Kai/archive/master.zip) the ZIP file from the [front page of KC3 Kai github](https://github.com/dragonjet/KC3Kai).
 2.   Extract the contents of the ZIP file into your preferred directory/folder.
-3.  Go into your Chrome browser &gt; menu bar located on the right-hand part of the toolbar with an icon representing 3 horizontal layers &gt; More tools &gt; Extensions.
+3.  Go into your Chrome browser > menu bar located on the right-hand part of the toolbar with an icon representing 3 horizontal layers > More tools > Extensions.
 4.   Check the box labelled "Developer mode" located on the right hand upper part of the window.
 5.   Click on "Load unpacked extension".
 6.   When prompted to "Select the extension directory/folder", navigate to where you extracted the contents of the zip file but under the directory/folder labelled src.

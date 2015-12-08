@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Player / [Showcase](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Showcase.md)
+
 # Overview
 The idea of Showcase is to present players with top 6 ships from each of the respective types, sorted from highest level and in descending format (ship levels lower than top 6 are omitted).
 

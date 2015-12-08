@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Player / [Profile](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Profile.md)
+
 #### Admiral Info
 
 Most of these information can also be found in your HQ page inside the game:

@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Fleet / [Current](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_Fleets.md)
+
 Here is where you can find an overview of your fleet setup and various information that is handy.
 
 From left to right, top to bottom:

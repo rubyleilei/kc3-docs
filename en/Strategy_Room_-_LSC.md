@@ -1,3 +1,5 @@
+[en](https://github.com/KC3Kai/kc3-docs/tree/master/en) / [Strategy Room](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room.md) / Ships / [LSC](https://github.com/KC3Kai/kc3-docs/blob/master/en/Strategy_Room_-_LSC.md)
+
 Here is where you will find a history of your large ship constructions.
 
 The information is ordered as follows (from top to bottom, left to right):
